@@ -10,7 +10,7 @@ Install Python 3.10 or later. From this folder run:
 python app.py
 ```
 
-Open http://localhost:8000. No build step, database or API key is needed. Use the same browser and address to revisit your journal.
+Open https://dayfern.onrender.com/. No build step, database or API key is needed. Use the same browser and address to revisit your journal.
 
 ## Using Dayfern
 
