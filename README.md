@@ -49,3 +49,15 @@ node --check web/app.js
 - web/ contains the browser UI, chart renderer and bundled meadow illustration.
 - test_analysis.py covers the clustering boundaries and invalid input.
 - render.yaml and requirements.txt configure production hosting.
+
+## Website 
+<img width="1332" height="596" alt="{58F17C1C-CC4C-4E75-BE79-86DFA576467F}" src="https://github.com/user-attachments/assets/ba82de96-8632-40b3-82a7-c4c62a867ec0" />
+<img width="1331" height="571" alt="{3B08476B-407E-4AB4-88EB-2FCF5BA97790}" src="https://github.com/user-attachments/assets/e73f2f65-1146-402f-9988-94c965f6fad5" />
+<img width="1334" height="582" alt="{7236C13B-BEEC-4CE8-BC7A-F365B3022C94}" src="https://github.com/user-attachments/assets/4fa0baac-f086-49f3-9cc9-7380917ad0b3" />
+<img width="1338" height="599" alt="{4F46FC31-86F3-499B-A3D4-6320B0E0F2E0}" src="https://github.com/user-attachments/assets/498d94ae-a73b-4030-95fc-0f4a7253f0ab" />
+<img width="1323" height="582" alt="{009E41FE-2CFA-41EC-B322-69220911931F}" src="https://github.com/user-attachments/assets/76409f42-9b16-4e03-8fba-dbeaa90e419e" />
+
+
+
+
+
